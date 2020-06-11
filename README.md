@@ -8,3 +8,5 @@ Company wants to automate the loan eligibility process (real time) based on cust
 Dataset Link: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement
 
 Secured Position-42 off 6805.
+
+Leaderboard: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#LeaderBoard
